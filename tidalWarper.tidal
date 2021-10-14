@@ -1,0 +1,6 @@
+d1 $ slow 4
+$ pS "samplePlay" "dnb1*4" --only custom sample works :(
+# s "warper"
+# pF "timeEnv" "[1,1,4]"
+# pF "pointEnv" "[0, 1, 0.5, 0.2]"
+# pF "freqEnv" "[1,2,0.1]"
